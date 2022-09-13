@@ -2,8 +2,15 @@
 //Open Source Document For Educational Purpose
 //Date - 11-09-22
 //Author - Aditya Kalra
+//Prefered Compilers - gcc 
+//Online Compilers - supporting stdlib and stdio , eg- Programiz
 //github- gatYouBoii
 
+//----------how to run the program
+//Go to the programiz code editor or any other (see prefered)
+//Open the  C compiler
+//Paste the code
+//Run the code
 
 #include <stdio.h>
 #include <stdlib.h>
